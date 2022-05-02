@@ -24,6 +24,7 @@ Credits:
 
 Sounds were downloaded via freesound.org
 Thank you to the follow folks for sound effects:
+
 • danlucaz for SCORE (https://freesound.org/people/danlucaz/sounds/517753/)
 • alanmcki for LOSE (https://freesound.org/people/alanmcki/sounds/400581/)
 • samsterbirdiesr for LOSE_LIFE (https://freesound.org/people/SamsterBirdies/sounds/363920/)
