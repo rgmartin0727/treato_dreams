@@ -1,5 +1,8 @@
 # treato_dreams
 
+**Overview:**
+
+
 This is a game called Treato Dreams created using pygame. 
 
 While their human is at work, a dog has fallen asleep and is having a puppy dream that
@@ -7,7 +10,9 @@ they are in the park and yummy treats and icky vegetables are falling from the s
 
 The object of the game is to eat treats while avoiding vegetables.
 
-Rules:
+
+
+**Rules:** 
 
 • Each treat eaten increases the player score by (50 * level)
 
@@ -28,7 +33,8 @@ Rules:
 • If all lives are lost, the player loses the game
 
 
-Credits:
+
+**Credits:**
 
 Images were all downloaded via ShutterStock
 
@@ -45,6 +51,7 @@ Thank you to the follow folks for sound effects:
 • bloodpixelhero for the musical theme (https://freesound.org/people/BloodPixelHero/sounds/580898/)
 
 
-Thank you to my partner Kate and our dog Simon for being this inspiration behind this game.
+
+**Thank you to my partner Kate and our dog Simon for being this inspiration behind this game.**
 
 <img src="https://user-images.githubusercontent.com/104270271/166312126-6c83a768-e865-4c09-9a49-1e16a7f9c44d.png" width=50% height=50%>
