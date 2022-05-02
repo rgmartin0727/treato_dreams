@@ -10,13 +10,21 @@ The object of the game is to eat treats while avoiding vegetables.
 Rules:
 
 • Each treat eaten increases the player score by (50 * level)
+
 • Each vegetable eaten decreases player lives by 1
+
 • The player starts with 3 lives
+
 • On Level 1, 4 treats spawn and increment by 2 per level
+
 • On Level 1, 4 vegetables spawn and increment by 3 per level
+
 • After all food objects have been eaten or fallen off the screen, the player advances to the next level
+
 • Between a score of 5,000 and 50,000 inclusive, every 5,000 the player will receive an extra life
+
     • eg: 5,000, 10,000, 15,000 and on
+
 • If all lives are lost, the player loses the game
 
 
