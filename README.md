@@ -22,7 +22,10 @@ Rules:
 
 Credits:
 
+Images were all downloaded via ShutterStock
+
 Sounds were downloaded via freesound.org
+
 Thank you to the follow folks for sound effects:
 
 • danlucaz for SCORE (https://freesound.org/people/danlucaz/sounds/517753/)
@@ -34,11 +37,6 @@ Thank you to the follow folks for sound effects:
 • bloodpixelhero for the musical theme (https://freesound.org/people/BloodPixelHero/sounds/580898/)
 
 
-Thank you to my dog Simon for being this inspiration behind this game.
+Thank you to my partner Kate and our dog Simon for being this inspiration behind this game.
 
-![IMG_9885](https://user-images.githubusercontent.com/104270271/166311037-e2884da9-b4b3-4f4c-9cb1-fa65a962f886.JPG)
-
-
-
-
-Images were all downloaded via ShutterStock
+<img src="https://user-images.githubusercontent.com/104270271/166312126-6c83a768-e865-4c09-9a49-1e16a7f9c44d.png" width=50% height=50%>
