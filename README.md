@@ -42,13 +42,16 @@ Sounds were downloaded via freesound.org
 
 Thank you to the follow folks for sound effects:
 
-• danlucaz for SCORE (https://freesound.org/people/danlucaz/sounds/517753/)
+• danlucaz for SCORE (https://freesound.org/people/danlucaz/sounds/517753/ -- under the Creative Commons 0 License)
 
-• alanmcki for LOSE (https://freesound.org/people/alanmcki/sounds/400581/)
+• alanmcki for LOSE (https://freesound.org/people/alanmcki/sounds/400581/ -- under the Creative Commons Attribution 3.0 License)
 
-• samsterbirdiesr for LOSE_LIFE (https://freesound.org/people/SamsterBirdies/sounds/363920/)
+• samsterbirdiesr for LOSE_LIFE (https://freesound.org/people/SamsterBirdies/sounds/363920/ -- under the Creative Commons 0 License)
 
-• bloodpixelhero for the musical theme (https://freesound.org/people/BloodPixelHero/sounds/580898/)
+• bloodpixelhero for the musical theme (https://freesound.org/people/BloodPixelHero/sounds/580898/ -- under the Creative Commons Attribution 4.0 License)
+
+Thank you to GGBotNet for the Quinque Five font. The font was downloaded from fontspace at https://www.fontspace.com/quinque-five-font-f65138
+and is under the SIL Open Font License, Version 1.1.
 
 
 
