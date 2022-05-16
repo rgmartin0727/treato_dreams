@@ -199,8 +199,8 @@ def main():
 
     character.level = 0
     player_vel = 5
-    main_font = pygame.font.SysFont('quinquefive0wonv', 15)
-    lost_font = pygame.font.SysFont('quinquefive0wonv', 28)
+    main_font = pygame.font.Font(os.path.join('quinque-five-font','Quinquefive-0Wonv.ttf'), 15)
+    lost_font = pygame.font.Font(os.path.join('quinque-five-font','Quinquefive-0Wonv.ttf'), 28)
 
     lost = False
     lost_timer = 0
@@ -318,8 +318,8 @@ def main():
 
 def main_menu():
     run = True
-    title_font = pygame.font.SysFont('quinquefive0wonv', 25)
-    sub_title_font = pygame.font.SysFont('quinquefive0wonv', 10)
+    title_font = pygame.font.Font(os.path.join('quinque-five-font','Quinquefive-0Wonv.ttf'), 25)
+    sub_title_font = pygame.font.Font(os.path.join('quinque-five-font','Quinquefive-0Wonv.ttf'), 10)
     pygame.mixer.music.unpause()
 
     while run:
@@ -339,7 +339,7 @@ def main_menu():
 
 def opening_scene():
     run = True
-    exposition_font = pygame.font.SysFont('quinquefive0wonv', 10)
+    exposition_font = pygame.font.Font(os.path.join('quinque-five-font','Quinquefive-0Wonv.ttf'), 10)
 
     while run:
             WIN.blit(DOG_DREAMING, (0, 0))
